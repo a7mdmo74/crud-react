@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "fname": "ahmed",
+      "lname": "mohamed",
+      "email": "",
+      "id": 1
+    },
+    {
+      "fname": "r;gji",
+      "lname": "grjeibht",
+      "email": "rgh",
+      "id": 2
+    },
+    {
+      "fname": "ahmed",
+      "lname": "mohamed",
+      "email": "a7mdmo74@gmail.com",
+      "id": 3
+    }
+  ]
+}
